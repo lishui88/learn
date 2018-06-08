@@ -1,0 +1,9 @@
+商品编码<--->goods_barcode
+
+商品条码<--->pack_check_barcode
+
+
+库存调整：
+
+	审核：锁定库存
+	出库：库存更新
